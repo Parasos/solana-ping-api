@@ -26,7 +26,7 @@ AlternativeEnpoint:
  DiscordAlert:
   Enabled: true
   Webhook:
-PingConfig:
+PingConfig:0
  Receiver: 9qT3WeLV5o3t3GVgCk9A3mpTRjSb9qBvnfrAsVKLhmU5 # change your receive account here
  NumWorkers: 3                 #change number of concurent run here
  BatchCount: 1
